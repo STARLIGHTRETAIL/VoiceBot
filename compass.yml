@@ -1,0 +1,13 @@
+name: VoiceBot
+id: ari:cloud:compass:b099cca4-e168-464e-955f-9bc5bd1e455b:component/3d461702-821a-4c5d-a6f6-eb922d0c914e/52b727f2-3c6f-4b6b-92b3-c97993cf2413
+description: A sample app for the customer support center running in Azure, using Azure Communication Services and Azure OpenAI for text and voice bots.
+configVersion: 1
+typeId: SERVICE
+fields:
+  tier: 4
+links: []
+relationships:
+  DEPENDS_ON: []
+labels:
+  - source:github
+customFields: null
